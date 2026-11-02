@@ -2,8 +2,6 @@
 
 A personal collection of Generative AI agent notebooks that I use to learn, experiment with, and extend agent architectures — from simple conversational bots to multi-agent systems built with LangChain, LangGraph, PydanticAI, AutoGen and others.
 
-> **Credit:** This project is based on [GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) by Nir Diamant and its contributors, used under its non-commercial [license](LICENSE). It has been modified by Chang — see [Changes from the original](#changes-from-the-original).
-
 ## Goals
 
 - 🎓 Learn to build GenAI agents from beginner to advanced levels
@@ -480,9 +478,6 @@ The notebooks in this project, sorted by category:
 - Converted notebook links to relative paths within this project.
 - Removed the community contribution guide (`CONTRIBUTING.md`) and the newsletter images.
 
-## Credits
-
-Original repository: [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) by Nir Diamant. Individual notebooks were written by the original author and community contributors — see each notebook and the [original contributors list](https://github.com/NirDiamant/GenAI_Agents/graphs/contributors). This project is not affiliated with or endorsed by the original author.
 
 ## License
 
